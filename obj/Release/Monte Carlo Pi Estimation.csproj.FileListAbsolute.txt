@@ -1,0 +1,7 @@
+C:\Users\dmeseck\source\repos\Monte Carlo Pi Estimation\bin\Release\Monte Carlo Pi Estimation.exe.config
+C:\Users\dmeseck\source\repos\Monte Carlo Pi Estimation\bin\Release\Monte Carlo Pi Estimation.exe
+C:\Users\dmeseck\source\repos\Monte Carlo Pi Estimation\bin\Release\Monte Carlo Pi Estimation.pdb
+C:\Users\dmeseck\source\repos\Monte Carlo Pi Estimation\obj\Release\Monte Carlo Pi Estimation.csproj.CoreCompileInputs.cache
+C:\Users\dmeseck\source\repos\Monte Carlo Pi Estimation\obj\Release\Monte Carlo Pi Estimation.exe
+C:\Users\dmeseck\source\repos\Monte Carlo Pi Estimation\obj\Release\Monte Carlo Pi Estimation.pdb
+C:\Users\dmeseck\source\repos\Monte Carlo Pi Estimation\obj\Release\Monte Carlo Pi Estimation.csprojAssemblyReference.cache

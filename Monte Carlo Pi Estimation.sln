@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monte Carlo Pi Estimation", "Monte Carlo Pi Estimation.csproj", "{2BC6B9C7-47B2-4103-B851-E8B3535D4AF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BC6B9C7-47B2-4103-B851-E8B3535D4AF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC6B9C7-47B2-4103-B851-E8B3535D4AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC6B9C7-47B2-4103-B851-E8B3535D4AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC6B9C7-47B2-4103-B851-E8B3535D4AF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2C84C0E-B939-4F17-B5B4-3EA2616F4E57}
+	EndGlobalSection
+EndGlobal
